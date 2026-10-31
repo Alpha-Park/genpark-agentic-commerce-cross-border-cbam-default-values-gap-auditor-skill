@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-cross-border-cbam-default-values-gap-auditor-skill",
+  "version": "1.0.0",
+  "title": "EU CBAM Default vs Actual Carbon Emissions Gap & Tax Liability Skill",
+  "category": "Agentic Commerce (ESG / Carbon Customs & CBAM)",
+  "description": "Compares actual primary smelter/mill emissions data against EU Commission default penalty values for CBAM goods (Steel, Aluminium, Cement), optimizing carbon certificate costs.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "audit_cbam_actual_vs_default_emissions"
+  ],
+  "dependencies": []
+}
